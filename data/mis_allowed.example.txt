@@ -1,0 +1,5 @@
+# Intraday (MIS) allow-list. One NSE symbol per line.
+# Export the current MIS-eligible list from your broker and paste it here.
+# Intraday symbols not listed here are skipped, so the system never shorts something you cannot short.
+RELIANCE
+INFY

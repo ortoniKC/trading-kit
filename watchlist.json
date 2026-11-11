@@ -1,0 +1,5 @@
+{
+  "_note": "Put NSE equity symbols here (exactly as Kite spells them, e.g. RELIANCE, INFY). No F&O. Keys starting with _ are ignored.",
+  "intraday": ["RELIANCE", "INFY"],
+  "swing": ["HDFCBANK", "TCS"]
+}
